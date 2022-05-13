@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erdo Waka Septyano</h1>
-<h3 align="center">A passionate frontend developer from Indonesia, nice to meet you all</h3>
+<h3 align="center">A developer from Indonesia, nice to meet you all</h3>
 
 - 🔭 I’m currently working on **Home**
 

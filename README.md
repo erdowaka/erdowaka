@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Home**
 
-- 🌱 I’m currently learning **openclash, framework and golang**
+- 🌱 I’m currently learning **Openclash, Framework and Golang**
 
 - 👯 I’m looking to collaborate on **Google, and more option**
 

@@ -29,5 +29,5 @@
 <p><a href="https://www.buymeacoffee.com/erdowaka13f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="erdowaka13f" /></a><a href="https://ko-fi.com/Waka"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Waka" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdowaka&show_icons=true&theme=tokyonight" alt="erdowaka" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdowaka&repo=README.md&theme=tokyonight" alt="erdowaka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdowaka&repo=erdowaka/README.md&theme=tokyonight" alt="erdowaka" /></p>
 

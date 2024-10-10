@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erdo Waka</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdowaka&label=Profile%20views&color=0e75b6&style=flat" alt="erdowaka" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 👯 I’m looking to collaborate on **Project Flutter**
+- 👯 I’m looking to collaborate on **Project Flutter** and Another Stack
 
 - 🤝 I’m looking for help with **Anyone**
 
-- 💬 Ask me about **Flutter and Dart**
+- 💬 Ask me about **All Stack**
 
 - 📫 How to reach me **erdowaka13@gmail.com**
 

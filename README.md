@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 👯 I’m looking to collaborate on **Project Flutter** and Another Stack
+- 👯 I’m looking to collaborate on **Project Php With Laravel** and Another Stack **Project Java and JavaScript**
 
 - 🤝 I’m looking for help with **Anyone**
 
-- 💬 Ask me about **All Stack**
+- 💬 Ask me about **Php and Java**
 
 - 📫 How to reach me **erdowaka13@gmail.com**
 
